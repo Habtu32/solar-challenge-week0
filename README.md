@@ -1,0 +1,1 @@
+This is a Solar Data Discovery: Week 0 Challenge
