@@ -55,7 +55,7 @@ An interactive dashboard was built using **Streamlit** that allows:
 - Dynamic visualizations (line, box, bar charts)
 - Country-based filtering
 
-**Public App:** [Streamlit App URL goes here once deployed]  
+**Public App:** [https://mainpy-jntnehd9zyksani9ixpxyp.streamlit.app/]  
 **Repository:** [https://github.com/Habtu32/solar-challenge-week0](https://github.com/Habtu32/solar-challenge-week0)
 
 ---
